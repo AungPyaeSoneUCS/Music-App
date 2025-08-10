@@ -1,0 +1,10 @@
+.icon-all {
+    font-size: 50px;
+    color: aqua;
+    cursor: pointer;
+}
+
+.icon-all:hover{
+    font-size: 110px;
+    color: rgb(2, 182, 62);
+}
